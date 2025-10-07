@@ -1,0 +1,7 @@
+﻿  Game.cpp
+D:\PBL2\SOKOBAN2\SOKOBAN1\SOKOBAN\SOKOBAN\Game.cpp(124,29): error C3861: 'playWinSound': identifier not found
+D:\PBL2\SOKOBAN2\SOKOBAN1\SOKOBAN\SOKOBAN\Game.cpp(137,12): error C2039: 'playWinSound': is not a member of 'Game'
+      D:\PBL2\SOKOBAN2\SOKOBAN1\SOKOBAN\SOKOBAN\Game.h(15,7):
+      see declaration of 'Game'
+  
+D:\PBL2\SOKOBAN2\SOKOBAN1\SOKOBAN\SOKOBAN\Game.cpp(138,5): error C2065: 'winSound': undeclared identifier
